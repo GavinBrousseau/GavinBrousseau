@@ -5,22 +5,31 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I hate complex nesting
-- <ol>
-  <li>Kinda</li>
-  <li>Like
-    <ol>
-      <li>This
-        <ul>
-          <li>Stupid
-          </li>
-          <li>Stuff</li>
-        </ul>
-      </li>
-    </ol>
-  </li>
-</ol>
-
-<!---
-GavinBrousseau/GavinBrousseau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <h2>like this</h2>
+<ul>
+    <li>a</li>
+    <li>b
+        <ol>
+            <li>b1</li>
+            <li>b2
+                <ul>
+                    <li>b2a
+                        <ul>
+                            <li>b2aa</li>
+                            <li>b2ab</li>
+                        </ul>
+                    </li>
+                    <li>b2b</li>
+                    <li>b2c</li>
+                </ul>
+            </li>
+            <li>b3
+                <ol>
+                    <li>b31</li>
+                    <li>b32</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+    <li>c</li>
+</ul>
